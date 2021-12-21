@@ -6,6 +6,7 @@ This paper identifies whether a vehicle exists by receiving image or photo data.
 총 세 가지의 비식별화 방식
 1) video_blur.ipynb
 Blurring 기법을 이용한 자동차 번호판 비식별화
+결과: https://youtu.be/fFyahjTxhS0
 2) video_color.ipynb
 Line 기법을 통한 색 입히기를 이용한 자동차 번호판 비식별화
 3) video_mosaic.ipynb
